@@ -8,4 +8,4 @@
 
 ## Mis repositorios:
 
-[Mi repositorio de prueba](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
+[Mi repositorio de prueba](https://github.com/diand23)
