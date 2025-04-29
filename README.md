@@ -1,7 +1,7 @@
 # Hola a todos! Bienvenidos a mi perfil de Github
 
 
-## Aquí podrás encontrar todo el código que he ido aprendiendo
+## Aquí podrás encontrar todo el código que he ido aprendiendo con Python
 
 ![](https://opra.info/wp-content/uploads/Grafico-estadisticas-teclado-e1675761328522.jpg)
 
